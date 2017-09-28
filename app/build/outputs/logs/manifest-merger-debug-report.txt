@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:10:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/uduak/.android/build-cache/fdf8221a9f9711c8ab1fcf7c1e5cbc8ef4f8baa3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/uduak/.android/build-cache/6fe3da8ae0a2ca04d7993a96bb18d569e4fe3e45/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/uduak/.android/build-cache/92fbac104b52cb1eedcfd065dc3fe6de2d62365f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/uduak/.android/build-cache/f67f6251eea48ab83df10c47ee65cb96d282d975/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/uduak/.android/build-cache/163bc7efda5422dafd27170c605da355d5c56589/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/74c798d532e56c9fbdcd3f82ea6f9d1a54c16fd7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/c960284f6f09b7a1d72fecc16dfafcbb6e8df5f6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/uduak/.android/build-cache/3fbc77a9a2a4d90d12f3dac047a97f36855e2ff2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /Users/uduak/.android/build-cache/61427b5a97293b93ad77f84b6d1d3715af8905b3/output/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:11:9-36
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:18:13-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:24:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:26:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:30:27-75
+data
+ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:32:17-34:62
+	android:host
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:33:21-55
+	android:scheme
+		ADDED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml:34:21-59
+uses-sdk
+INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] /Users/uduak/.android/build-cache/4a9179d4955e5fe3715711091ff6594f6ffabe65/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/uduak/.android/build-cache/fdf8221a9f9711c8ab1fcf7c1e5cbc8ef4f8baa3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/uduak/.android/build-cache/6fe3da8ae0a2ca04d7993a96bb18d569e4fe3e45/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/uduak/.android/build-cache/92fbac104b52cb1eedcfd065dc3fe6de2d62365f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/uduak/.android/build-cache/f67f6251eea48ab83df10c47ee65cb96d282d975/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/uduak/.android/build-cache/163bc7efda5422dafd27170c605da355d5c56589/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/74c798d532e56c9fbdcd3f82ea6f9d1a54c16fd7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/c960284f6f09b7a1d72fecc16dfafcbb6e8df5f6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/uduak/.android/build-cache/3fbc77a9a2a4d90d12f3dac047a97f36855e2ff2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /Users/uduak/.android/build-cache/61427b5a97293b93ad77f84b6d1d3715af8905b3/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/uduak/.android/build-cache/fdf8221a9f9711c8ab1fcf7c1e5cbc8ef4f8baa3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/uduak/.android/build-cache/6fe3da8ae0a2ca04d7993a96bb18d569e4fe3e45/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/uduak/.android/build-cache/92fbac104b52cb1eedcfd065dc3fe6de2d62365f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/uduak/.android/build-cache/f67f6251eea48ab83df10c47ee65cb96d282d975/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/uduak/.android/build-cache/163bc7efda5422dafd27170c605da355d5c56589/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/74c798d532e56c9fbdcd3f82ea6f9d1a54c16fd7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/uduak/.android/build-cache/c960284f6f09b7a1d72fecc16dfafcbb6e8df5f6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/uduak/.android/build-cache/3fbc77a9a2a4d90d12f3dac047a97f36855e2ff2/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/AndroidManifest.xml:26:9-47

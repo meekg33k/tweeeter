@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/uduak/AndroidStudioProjects/Tweeter/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/res/menu/login.xml"
+    }
+]

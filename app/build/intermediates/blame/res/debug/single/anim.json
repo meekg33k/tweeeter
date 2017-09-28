@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
