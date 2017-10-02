@@ -4,7 +4,19 @@
         "source": "/Users/uduak/AndroidStudioProjects/Tweeter/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/drawable-hdpi/s.png",
+        "source": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/res/drawable-hdpi/s.png"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/drawable-hdpi/compose_tweet.png",
+        "source": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/res/drawable-hdpi/compose_tweet.png"
+    },
+    {
         "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_twitter.png",
+        "source": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/src/main/res/drawable-hdpi/icon_twitter.png"
     }
 ]

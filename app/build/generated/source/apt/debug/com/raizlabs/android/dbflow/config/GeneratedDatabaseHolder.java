@@ -29,6 +29,6 @@ public final class GeneratedDatabaseHolder extends DatabaseHolder {
     typeConverters.put(GregorianCalendar.class, new CalendarConverter());
     typeConverters.put(java.util.Date.class, new DateConverter());
     typeConverters.put(UUID.class, new UUIDConverter());
-    new MyDatabaseRestClientDatabase_Database(this);
+    new TweeeterDBTweeeterDatabase_Database(this);
   }
 }

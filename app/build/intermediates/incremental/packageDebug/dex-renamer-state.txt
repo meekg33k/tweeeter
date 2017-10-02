@@ -1,0 +1,7 @@
+#Sun Oct 01 22:36:35 PDT 2017
+base.0=/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b24e835604327eb7cfa929fa3fc840878b0e701
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0a074e619907ef8f37ee6908d16128cc4df378c/classes.dex
+base.1=/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0a074e619907ef8f37ee6908d16128cc4df378c
+file.0=/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b24e835604327eb7cfa929fa3fc840878b0e701/classes.dex

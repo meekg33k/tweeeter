@@ -16,6 +16,10 @@
         "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/uduak/.android/build-cache/4556c589bbb40c9d5f6676b0b9d4289ec21606f0/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Users/uduak/AndroidStudioProjects/Tweeeter/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/Users/uduak/.android/build-cache/af3c0fed08f925ec71605483e341e8b2f5f75732/output/res/color-v23/abc_tint_btn_checkable.xml"
     },

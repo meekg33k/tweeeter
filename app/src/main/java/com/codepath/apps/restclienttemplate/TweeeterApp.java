@@ -3,6 +3,7 @@ package com.codepath.apps.restclienttemplate;
 import android.app.Application;
 import android.content.Context;
 
+import com.facebook.stetho.Stetho;
 import com.raizlabs.android.dbflow.config.FlowConfig;
 import com.raizlabs.android.dbflow.config.FlowLog;
 import com.raizlabs.android.dbflow.config.FlowManager;
@@ -27,6 +28,28 @@ public class TweeeterApp extends Application {
 		FlowLog.setMinimumLoggingLevel(FlowLog.Level.V);
 
 		TweeeterApp.context = this;
+
+
+		/** Stetho Config Setup **/
+		// Create an InitializerBuilder
+		Stetho.InitializerBuilder initializerBuilder =
+				Stetho.newInitializerBuilder(this);
+
+		// Enable Chrome DevTools
+		initializerBuilder.enableWebKitInspector(
+				Stetho.defaultInspectorModulesProvider(this)
+		);
+
+		// Enable command line interface
+		initializerBuilder.enableDumpapp(
+				Stetho.defaultDumperPluginsProvider(context)
+		);
+
+		// Use the InitializerBuilder to generate an Initializer
+		Stetho.Initializer initializer = initializerBuilder.build();
+
+		// Initialize Stetho with the Initializer
+		Stetho.initialize(initializer);
 	}
 
 	public static TweeeterClient getRestClient() {
