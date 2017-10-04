@@ -10,6 +10,7 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
+import android.widget.ProgressBar;
 
 import com.codepath.apps.restclienttemplate.R;
 import com.codepath.apps.restclienttemplate.TweeeterApp;
@@ -31,7 +32,7 @@ public class TimelineActivity extends AppCompatActivity {
     private ArrayList<Tweet> mTweetList;
     private RecyclerView mRecyclerView;
     private SwipeRefreshLayout swipeContainer;
-
+    private ProgressBar progressBar;
 
 
     @Override
@@ -45,6 +46,8 @@ public class TimelineActivity extends AppCompatActivity {
         mTweetsAdapter = new TweetsAdapter(this, mTweetList);
         mRecyclerView = (RecyclerView) findViewById(R.id.rvTweets);
         swipeContainer = (SwipeRefreshLayout) findViewById(R.id.swipeContainer);
+        progressBar = (ProgressBar) findViewById(R.id.progressBar);
+
         mRecyclerView.setAdapter(mTweetsAdapter);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false));
 
@@ -81,6 +84,8 @@ public class TimelineActivity extends AppCompatActivity {
 
     private void populateTimeline(int page){
 
+        progressBar.setVisibility(ProgressBar.VISIBLE);
+
         client.getHomeTimeline(page, new JsonHttpResponseHandler(){
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONArray tweetResults) {
@@ -88,6 +93,8 @@ public class TimelineActivity extends AppCompatActivity {
                 mTweetList.clear();
                 mTweetsAdapter.addAll(Tweet.fromJson(tweetResults));
                 swipeContainer.setRefreshing(false);
+                progressBar.setVisibility(ProgressBar.INVISIBLE);
+
             }
 
             @Override

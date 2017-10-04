@@ -3332,6 +3332,7 @@ containing a value of this type.
         public static final int parent=0x7f0c000f;
         public static final int parentPanel=0x7f0c0054;
         public static final int pin=0x7f0c0039;
+        public static final int progressBar=0x7f0c007c;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c0064;
@@ -3385,7 +3386,6 @@ containing a value of this type.
         public static final int textinput_counter=0x7f0c0009;
         public static final int textinput_error=0x7f0c000a;
         public static final int time=0x7f0c009d;
-        public static final int timeLineTitle=0x7f0c007c;
         public static final int title=0x7f0c0051;
         public static final int titleDividerNoCustom=0x7f0c0060;
         public static final int title_template=0x7f0c005e;

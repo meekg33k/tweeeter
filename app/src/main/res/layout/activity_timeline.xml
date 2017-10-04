@@ -31,13 +31,13 @@
                     android:src="@drawable/icon_twitter"
                     android:contentDescription="@string/brand_logo" />
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:id="@+id/timeLineTitle"
-                    android:gravity="center_vertical"
-                    style="@style/AlertDialog.AppCompat.Light"
-                    android:layout_toEndOf="@id/appLogo"/>
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:indeterminateTint="#795548"
+                    android:indeterminateTintMode="src_in"/>
 
             </RelativeLayout>
 
